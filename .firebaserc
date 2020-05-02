@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "firestore-grafica-a24fa": {
+      "hosting": {
+        "goty": [
+          "firestore-grafica-a24fa"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "firestore-grafica-a24fa"
+  }
+}
